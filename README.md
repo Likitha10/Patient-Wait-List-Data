@@ -22,6 +22,6 @@ Scan the QR code below to access the live Power BI dashboard. Alternatively, use
 ## Additional Information:
 This report serves as a decision-support tool, providing healthcare administrators and professionals with the necessary data to monitor patient care operations, manage waitlists, and optimize resource distribution.
 
-![QR Code for Power BI Report](file:///mnt/data/Patient%20Data%20Analysis.jpg)
+![QR Code for Power BI Report](https://github.com/Likitha10/Patient-Wait-List-Data/blob/main/Patient%20Data%20Analysis.jpg)
 
 Feel free to explore the interactive elements of the dashboard and use the filters to drill down into specific data points relevant to your analysis.
